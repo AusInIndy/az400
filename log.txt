@@ -1,0 +1,17 @@
+[33mcommit fbc931340886e37c3bbe95ea0945214af55638e5[m[33m ([m[1;36mHEAD -> [m[1;32mFeatureA[m[33m)[m
+Author: Joel Aus <jdaus@ymail.com>
+Date:   Thu Dec 21 16:22:39 2023 -0500
+
+    added file c
+
+[33mcommit 98e9ec71ca82e2f5ed009de06df788c89b5ee291[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Joel Aus <jdaus@ymail.com>
+Date:   Thu Dec 21 16:00:59 2023 -0500
+
+    Updating file a
+
+[33mcommit 6cc1195ce6517db71c0c1fb79fb8d01dc0d65c28[m
+Author: Joel Aus <jdaus@ymail.com>
+Date:   Thu Dec 21 15:55:55 2023 -0500
+
+    Adding files to git repo
